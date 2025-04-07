@@ -150,13 +150,13 @@ nav .navlinks li a{
     color:#007ced;
     transform: rotate(360deg);
 }
-/* Respnosiv design & displaying navbar for small screen */
+
 @media(max-width:930px)
 {
     nav .togglebtn{
         display: initial;
     }
-    /* for toggle button**/
+    
     .click {
         top:45px;
     }
@@ -211,7 +211,7 @@ nav .navlinks li a{
         padding:40px 0px;
     }
 }
-/* about */
+
 section{
     padding-top: 40px;
   }
